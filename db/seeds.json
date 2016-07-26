@@ -1,0 +1,45 @@
+[
+ {
+   "profile": "Crisp",
+   "style": [
+     "Pilsner",
+     "Oktoberfest",
+     "Vienna Lager",
+     "Wheat Ale"
+   ]
+ },
+ {
+   "profile": "Hop",
+   "style": [
+     "Pale Ale",
+     "India Pale Ale (IPA)",
+     "Session IPA",
+     "Amber Ale"
+   ]
+ },
+ {
+   "profile": "Malt",
+   "style": [
+     "Dunkle",
+     "Bitter",
+     "Extra Sour Bitter (ESB)",
+     "Barleywine"
+   ]
+ },
+ {
+   "profile": "Roast",
+   "style": [
+     "Imperial Stout",
+     "Brown Ale",
+     "Oatmeal Stout",
+     "Porter"
+   ]
+ },
+ {
+   "profile": "Fruit & Spice",
+   "style": [
+     "Witbier",
+     "Hefeweizen",
+     "Saison",
+     "Tripel, Dubbel and Quadrupel"
+   ]
